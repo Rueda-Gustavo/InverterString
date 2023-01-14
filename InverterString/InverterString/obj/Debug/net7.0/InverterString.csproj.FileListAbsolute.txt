@@ -1,0 +1,15 @@
+C:\Users\Gustavo\source\repos\InverterString\InverterString\bin\Debug\net7.0\InverterString.exe
+C:\Users\Gustavo\source\repos\InverterString\InverterString\bin\Debug\net7.0\InverterString.deps.json
+C:\Users\Gustavo\source\repos\InverterString\InverterString\bin\Debug\net7.0\InverterString.runtimeconfig.json
+C:\Users\Gustavo\source\repos\InverterString\InverterString\bin\Debug\net7.0\InverterString.dll
+C:\Users\Gustavo\source\repos\InverterString\InverterString\bin\Debug\net7.0\InverterString.pdb
+C:\Users\Gustavo\source\repos\InverterString\InverterString\obj\Debug\net7.0\InverterString.csproj.AssemblyReference.cache
+C:\Users\Gustavo\source\repos\InverterString\InverterString\obj\Debug\net7.0\InverterString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\source\repos\InverterString\InverterString\obj\Debug\net7.0\InverterString.AssemblyInfoInputs.cache
+C:\Users\Gustavo\source\repos\InverterString\InverterString\obj\Debug\net7.0\InverterString.AssemblyInfo.cs
+C:\Users\Gustavo\source\repos\InverterString\InverterString\obj\Debug\net7.0\InverterString.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\source\repos\InverterString\InverterString\obj\Debug\net7.0\InverterString.dll
+C:\Users\Gustavo\source\repos\InverterString\InverterString\obj\Debug\net7.0\refint\InverterString.dll
+C:\Users\Gustavo\source\repos\InverterString\InverterString\obj\Debug\net7.0\InverterString.pdb
+C:\Users\Gustavo\source\repos\InverterString\InverterString\obj\Debug\net7.0\InverterString.genruntimeconfig.cache
+C:\Users\Gustavo\source\repos\InverterString\InverterString\obj\Debug\net7.0\ref\InverterString.dll
